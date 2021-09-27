@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Maratona discover",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "..\\..\\Downloads\\assets"
+		}
+	],
+	"settings": {
+		"svn.ignoreMissingSvnWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Maratona discover"
+	}
+}
